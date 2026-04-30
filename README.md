@@ -2,7 +2,7 @@
 # Healthcare Multi-Agent AI System
 
 ## Overview
-AI-powered healthcare assistant using multi-agent architecture and RAG.
+🚀 End-to-end AI system demonstrating RAG-based reasoning and modular agent architecture.
 
 ## Features
 - Multi-agent design (Risk, Recommendation, Safety)
