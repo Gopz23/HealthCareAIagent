@@ -20,7 +20,8 @@
 - Gradio
 
 ## Demo
-<img width="1866" height="570" alt="image" src="https://github.com/user-attachments/assets/63852589-bb50-4ac6-b3f1-4ec90479821e" />
+<img width="1827" height="612" alt="image" src="https://github.com/user-attachments/assets/7a96e118-48b8-4501-9813-10d47ef40094" />
+
 
 
 ## Disclaimer
